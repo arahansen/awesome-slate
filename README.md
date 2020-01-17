@@ -12,7 +12,7 @@ A collection of awesome things for [slatejs](https://github.com/ianstormtaylor/s
 - [Slate Official Examples](https://www.slatejs.org/examples/richtext)
 - [Slate GitHub](https://github.com/ianstormtaylor/slate)
 
-### Slate Community
+##### Slate Community
 
 - [Slate Slack Channel](https://slate-js.slack.com/)
 
