@@ -16,6 +16,9 @@ A collection of awesome things for [slatejs](https://github.com/ianstormtaylor/s
 
 - [Slate Slack Channel](https://slate-js.slack.com/)
 
+##### Useful Snippets
+- [Slate Snippets](https://github.com/objectlegal/slate-snippets)
+
 ##### Official Plugins
 
 - [Slate History](https://github.com/ianstormtaylor/slate/blob/master/packages/slate-history) - A plugin that adds undo/redo history to Slate.
