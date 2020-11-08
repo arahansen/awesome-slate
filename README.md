@@ -37,6 +37,7 @@ A collection of awesome things for [slatejs](https://github.com/ianstormtaylor/s
 - [Slate Autocomplete](https://github.com/FedeLochbaum/slate-autocomplete/#readme) - A Slate plugin to suggestion replacements or actions based on input.
 - [Slate Simple Table](https://github.com/cdd/slate-simple-table#readme) - A Slate plugin to handle a simple table.
 - [Slate Instant Replace](https://github.com/enzoferey/slate-instant-replace#readme) - A Slate plugin that gives you full power on the last word your user typed.
+- [Remark Slate Transformer](https://github.com/inokawa/remark-slate-transformer) - A Remark plugin to convert Markdown to Slate, and vice versa.
 
 
 ##### Editors
