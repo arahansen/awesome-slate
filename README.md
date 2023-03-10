@@ -38,7 +38,10 @@ A collection of awesome things for [slatejs](https://github.com/ianstormtaylor/s
 - [Slate Simple Table](https://github.com/cdd/slate-simple-table#readme) - A Slate plugin to handle a simple table.
 - [Slate Instant Replace](https://github.com/enzoferey/slate-instant-replace#readme) - A Slate plugin that gives you full power on the last word your user typed.
 - [Remark Slate Transformer](https://github.com/inokawa/remark-slate-transformer) - A Remark plugin to convert Markdown to Slate, and vice versa.
+- [Plate](https://github.com/udecode/plate) - Rich-text editor plugin system for Slate & React.
 
+##### Serializers
+- [Slate to React](https://github.com/octet-stream/slate-to-react) - React component and utilities to transform Slate nodes to React.
 
 ##### Editors
 - [Canner Slate Editor](https://github.com/Canner/canner-slate-editor) - rich text / WYSIWYG editor built for modularity and extensibility
