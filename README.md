@@ -49,6 +49,7 @@ A collection of awesome things for [slatejs](https://github.com/ianstormtaylor/s
 - [French Press Editor](https://github.com/roast-cms/french-press-editor) - An offline-first rich text editor component.
 - [Nossas Editor](https://slate-editor.bonde.org/) - A complete rich text editor based on SlateJS framework
 - [Outline Editor](https://github.com/outline/rich-markdown-editor) - Slate based markdown editor that powers Outline wiki
+- [Volto Slate Editor](https://github.com/plone/volto/tree/master/packages/volto-slate) - Custom Slate editor for Plone/Volto CMS
 
 ##### Articles
 - [Why We Moved From Quill to Slate](https://medium.com/the-lead/why-we-moved-from-quill-to-slate-94f42aa54fec)
